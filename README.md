@@ -32,6 +32,12 @@ This tool is aimed at healthcare professionals and developers to help identify h
 
 ---
 
+## 🚀 Live Demo
+
+[Click here to try the app]([https://your-deployed-link.com](https://siddhi272004-bit-heart-attack-prediction-models-co-model-6uez7s.streamlit.app/))
+
+---
+
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
